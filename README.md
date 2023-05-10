@@ -1,4 +1,4 @@
-# Fianl-Project  
+# Final-Project  
 ## Sketch
 ![初步草图](https://github.com/YirenWA/Fianl-Project/assets/119879041/1dcf370f-1c38-492a-9994-f96b1b79638d)
 
